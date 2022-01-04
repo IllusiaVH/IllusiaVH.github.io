@@ -1,0 +1,27 @@
+.head
+  h1 {text-align: center; font-size: 100px}
+  h2 {text-align: center; font-size: 50px}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.otherdetails {
+/* to be added */
+}
+.boxmeme {
+  background-color: #e6e6fa;
+  padding: 2px;
+}
+.BA {
+  font-weight: bold;
+  color: red;
+}
+.APC {
+  font-weight: bold;
+  color: orange;
+}
+.scholarship {
+  font-weight: bold;
+  color: green
+}
