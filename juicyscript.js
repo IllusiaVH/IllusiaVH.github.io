@@ -2,13 +2,13 @@
 console.log("");
 
 document.getElementById("btn1").onclick = function(){
-  document.getElementById("frontintro").style.color = "red";
+ window.location.assign("https://en.wikipedia.org/wiki/Yamato-class_battleship");
 }
 
 document.getElementById("btn2").onclick = function(){
-  document.getElementById("otherdetails").style.color = "green";
+ window.location.assign("https://en.wikipedia.org/wiki/Iowa-class_battleship");
 }
 
 document.getElementById("btn3").onclick = function(){
-  document.getElementById("boxmeme").style.color = "blue";
+ window.location.assign("https://www.youtube.com/watch?v=QrER9fNOKZQ");
 }
